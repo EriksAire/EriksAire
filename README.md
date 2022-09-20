@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Eriks</h1>
-- 🔭 I’m currently working on [GitChat](https://github.com/Burfedd/GitChat)
+- 🔭 I’m currently working on <a href="https://github.com/Burfedd/GitChat"> GitChat </a>
 
 <p align="left">
 </p>
